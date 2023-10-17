@@ -1,4 +1,4 @@
-# HR-DASHBOARD using Microsoft Excel
+# HR ANALYTICS-DASHBOARD using Microsoft Excel
 It is a Data Analyst end-to-end project using Microsoft Excel. 
 
 # What about Human Resource(HR) Dashboards?
